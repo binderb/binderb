@@ -6,6 +6,8 @@ I have over a decade of experience building front-end and full-stack solutions f
 
 Looking to connect? I'd love to chat with you! Check out [this page](https://benbinder.net/contact) for a full set of contact information.
 
+<img src='./javascript.svg' height=30 />&nbsp;&nbsp;&nbsp;<img src='./typescript.svg' height=30 />&nbsp;&nbsp;&nbsp;<img src='./php.svg' height=30 />&nbsp;&nbsp;&nbsp;<img src='./python.svg' height=30 />&nbsp;&nbsp;&nbsp;<img src='./csharp.svg' height=30 />&nbsp;&nbsp;&nbsp;<img src='./react.svg' height=30 />&nbsp;&nbsp;&nbsp;<img src='./next.svg' height=30 />&nbsp;&nbsp;&nbsp;<img src='./tailwind.svg' height=30 />&nbsp;&nbsp;&nbsp;<img src='./graphql.svg' height=30 />&nbsp;&nbsp;&nbsp;<img src='./jquery.svg' height=30 />&nbsp;&nbsp;&nbsp;<img src='./unity.svg' height=30 />&nbsp;&nbsp;&nbsp;<img src='./postgres.svg' height=30 />&nbsp;&nbsp;&nbsp;<img src='./mysql.svg' height=30 />&nbsp;&nbsp;&nbsp;<img src='./mongodb.svg' height=30 />&nbsp;&nbsp;&nbsp;<img src='./pocketbase.svg' height=30 />
+
 ### Quick access to repo lists by category:
 - [📚 EdTech](https://github.com/stars/binderb/lists/edtech)
 - [🧩 Web Apps](https://github.com/stars/binderb/lists/web-apps)
